@@ -17,3 +17,5 @@ Once you get into the workforce, building out comps that reflect the designer's 
 - Basic static site setup with `index.html` and `styles.css`
 - Submit your work through a PR
 - In your PR comment or description, you must provide a link to the site you are recreating
+
+https://xkcd.com/
